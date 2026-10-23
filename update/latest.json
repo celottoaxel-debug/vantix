@@ -1,9 +1,9 @@
 {
-  "version": "1.8.0",
-  "url": "https://raw.githubusercontent.com/celottoaxel-debug/vantix/main/update/vantix-1.8.0.zip",
-  "sha256": "d85d408219e1b9960a067f257d307111fc0c3a9217ef80e37ab545c5e2e427dc",
-  "size": 228683,
+  "version": "1.8.1",
+  "url": "https://raw.githubusercontent.com/celottoaxel-debug/VANTIX/main/update/vantix-1.8.1.zip",
+  "sha256": "a31622f2b5bc4d2b0f5f8bf613977601285860a43db801d81623860e4ea912e3",
+  "size": 229479,
   "minShell": "1.6.0",
-  "notes": "Suivi quotidien des mots-clés (Search Console) et consignes du jour",
-  "date": "2026-10-23T21:19:55.364Z"
+  "notes": "Correction des mises à jour automatiques (fetch failed)",
+  "date": "2026-10-23T21:28:30.209Z"
 }
