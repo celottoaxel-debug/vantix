@@ -20,6 +20,10 @@ VANTIX explore chaque page de votre site, lit chaque mot, vérifie chaque lien, 
 
 **Windows** : lancez le `.exe`. Si Windows affiche « Windows a protégé votre ordinateur », cliquez sur **Informations complémentaires**, puis **Exécuter quand même**.
 
+## Mises à jour
+
+Depuis la version 1.6, VANTIX se met à jour tout seul : quand une nouvelle version est prête, un bandeau propose **Redémarrer**, sans rien réinstaller. Le dossier `update/` contient la dernière version et son empreinte de contrôle.
+
 ## Ce que fait VANTIX
 
 - **Audit complet** : chaque page, chaque lien, titres, descriptions, données structurées, vitesse, accès des robots d’IA, avec un score SEO et un score GEO.
