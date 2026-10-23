@@ -1,9 +1,9 @@
 {
-  "version": "1.7.0",
-  "url": "https://raw.githubusercontent.com/celottoaxel-debug/vantix/main/update/vantix-1.7.0.zip",
-  "sha256": "8b5adf2d4824495c415a430f5b8adac0b9a8dcf227e9eb9689004d1d67563731",
-  "size": 206021,
+  "version": "1.8.0",
+  "url": "https://raw.githubusercontent.com/celottoaxel-debug/vantix/main/update/vantix-1.8.0.zip",
+  "sha256": "d85d408219e1b9960a067f257d307111fc0c3a9217ef80e37ab545c5e2e427dc",
+  "size": 228683,
   "minShell": "1.6.0",
-  "notes": "11 nouveaux outils : simulateur de citation IA, où être cité, veille IA, erreurs des IA sur votre marque, score public, rafraîchir un article, FAQ réelles, plan d'attaque, avant / après, assistant, extension navigateur",
-  "date": "2026-10-23T21:01:08.873Z"
+  "notes": "Suivi quotidien des mots-clés (Search Console) et consignes du jour",
+  "date": "2026-10-23T21:19:55.364Z"
 }
