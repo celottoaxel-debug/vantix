@@ -1,9 +1,9 @@
 {
-  "version": "1.6.0",
-  "url": "https://raw.githubusercontent.com/celottoaxel-debug/vantix/main/update/vantix-1.6.0.zip",
-  "sha256": "d9c1595e0341a676f1676a0cb2b611aab64f699a31d195b16947681c7e2b2142",
-  "size": 151239,
+  "version": "1.6.1",
+  "url": "https://raw.githubusercontent.com/celottoaxel-debug/vantix/main/update/vantix-1.6.1.zip",
+  "sha256": "88c04e2140df4f7f79cd1737ffb23c586ff04950233d2dcc6fca624bc49f5756",
+  "size": 151661,
   "minShell": "1.6.0",
-  "notes": "Mises à jour automatiques, sans réinstallation.",
-  "date": "2026-10-23T20:26:45.080Z"
+  "notes": "Nouveau style : noir profond et accent corail",
+  "date": "2026-10-23T20:40:45.159Z"
 }
