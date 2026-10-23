@@ -1,9 +1,9 @@
 {
-  "version": "1.8.1",
-  "url": "https://raw.githubusercontent.com/celottoaxel-debug/vantix/main/update/vantix-1.8.1.zip",
-  "sha256": "a31622f2b5bc4d2b0f5f8bf613977601285860a43db801d81623860e4ea912e3",
-  "size": 229479,
+  "version": "1.8.2",
+  "url": "https://raw.githubusercontent.com/celottoaxel-debug/vantix/main/update/vantix-1.8.2.zip",
+  "sha256": "4828d8fd86c3bc09e94e5640254beb360d98695c90f762fdd5b02a0de62ae6e6",
+  "size": 232312,
   "minShell": "1.6.0",
-  "notes": "Correction des mises à jour automatiques (fetch failed)",
-  "date": "2026-10-23T21:28:30.209Z"
+  "notes": "Nouveau fond animé, sobre et désactivable",
+  "date": "2026-10-23T21:35:59.688Z"
 }
